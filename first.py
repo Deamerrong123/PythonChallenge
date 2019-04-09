@@ -1,0 +1,3 @@
+def firstDuplicate(a):
+	Index = []
+
