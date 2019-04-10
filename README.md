@@ -1,2 +1,3 @@
-#Challenge in Python list Applicatio
-Find the first duplicate number in the list.
+Challenge in Python list Application
+Find the first duplicate number in a list.
+
