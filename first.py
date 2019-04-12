@@ -6,8 +6,3 @@ def firstDuplicate(a):
         if len(Index) > 0:
                 return int(min(Index)[1])
         return -1
-
-
-                                     
-		
-
