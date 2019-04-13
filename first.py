@@ -14,7 +14,7 @@ def firstDuplicate2(a):
 
         while(start < end):
                 if (a[start:end].count(a[start]) > 1):
-                      Index = a[start+1:].index(a[start])
+                      Index = a[start+1:].index(a[start]) + start
                       if Index < end:
                               end = Index
                 start += 1
