@@ -9,7 +9,7 @@ print(firstDuplicate(a))
 print(firstDuplicate2(a))
 print(firstDuplicate3(a))
 print("------------------")
-print("Should print out 4")
+print("Should print out 3")
 print()
 
 b = [1,1,2,2,1]
@@ -30,7 +30,7 @@ start = time.time()
 print(firstDuplicate(c))
 end = time.time()
 print(end - start)
-'''
+
 start = time.time()
 print(firstDuplicate2(c))
 end = time.time()
@@ -41,6 +41,6 @@ print(firstDuplicate3(c))
 end = time.time()
 
 print(end - start)
-
+'''
 print()
 
