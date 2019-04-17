@@ -1,0 +1,26 @@
+3
+3
+3
+------------------
+Should print out 3
+
+1
+1
+1
+-------------------
+Shoule print out 1
+
+
+Now is using the first-duplicate method!!!
+33978
+The running time is : 170.652161359787 second.
+
+
+Now is using the second first-duplicate mehthod!!
+33978
+The running time is : 150.93511867523193 second.
+
+
+Now, is using the thrid first-duplicate method!!
+33978
+The running time is : 247.2805712223053 second.
