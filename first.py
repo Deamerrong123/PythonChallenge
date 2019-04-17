@@ -33,4 +33,17 @@ def firstDuplicate3(a):
             Index.append(a[i])
     return -1
 
+def firstDuplicate4(a):
+        start = 0
+        end = len(a)-1
+        
+        while(start < end):
+                if(a[start:end].count(a[start] > 1):
+                   Index = a[start:].index(a[end])
+                      if Index < end and Index > start:
+                              start = Index
+                end -= 1
+      return a[end]
+                   
+
 
