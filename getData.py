@@ -36,7 +36,7 @@ def getOutput():
 
         return Op_a
 
-print(getOutput())
+#print(getOutput())
 #data = getData3()
 #print(len(data))
 
