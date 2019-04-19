@@ -33,6 +33,17 @@ def firstDuplicate3(a):
             Index.append(a[i])
     return -1
 
+def firstDuplicate4(a):
+        Index = []
+        result = -1
+        for i in a:
+                if i in Index:
+                        return i
+                else:
+                        Index.append(i)
+
+        return result
+
 
 
 
