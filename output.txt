@@ -1,9 +1,11 @@
 3
 3
 3
+3
 ------------------
 Should print out 3
 
+1
 1
 1
 1
@@ -13,14 +15,19 @@ Shoule print out 1
 
 Now is using the first-duplicate method!!!
 33978
-The running time is : 170.652161359787 second.
+The running time is : 203.67459964752197 second.
 
 
 Now is using the second first-duplicate mehthod!!
 33978
-The running time is : 150.93511867523193 second.
+The running time is : 184.5852870941162 second.
 
 
 Now, is using the thrid first-duplicate method!!
 33978
-The running time is : 247.2805712223053 second.
+The running time is : 273.2838912010193 second.
+
+
+Now, is using the fourth firstDuplicate method!!
+33978
+The running time is : 155.91893792152405 second.

@@ -51,6 +51,7 @@ start = time.time()
 print(firstDuplicate3(c))
 end = time.time()
 print("The running time is : {} second.".format(end - start))
+print()
 
 
 # Using the four firstDuplicate method.
