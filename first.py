@@ -44,6 +44,15 @@ def firstDuplicate4(a):
 
         return result
 
+def firstDuplicate5(a):
+        a_set = set()
+        for el in a:
+                if el in a_set:
+                        return el
+                else:
+                        a_set.add(el)
+        return -1
+
 
 
 

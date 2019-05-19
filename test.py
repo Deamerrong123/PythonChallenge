@@ -26,6 +26,8 @@ print()
 # a big numbers list for testing, downloading from the codesignal,
 c = getData3()
 
+'''
+
 #print(c.count(33978))
 print()
 # using the 1st firstDuplicate method,
@@ -60,6 +62,14 @@ start = time.time()
 print(firstDuplicate4(c))
 end = time.time()
 print("The running time is : {} second.".format(end - start))
+print()
+'''
 
+# Using the fifth firstDuplicate function
+print("Now, is using the fifth firstDuplicate method! ")
+start= time.time()
+print(firstDuplicate5(c))
+end = time.time()
+print("The running time is : {} second.".format(end - start))
 print()
 
